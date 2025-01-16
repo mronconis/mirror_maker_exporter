@@ -1,0 +1,9 @@
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":0}]|{"offset": 3}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":0}]|{"offset": 6}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":0}]|{"offset": 8}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":1}]|{"offset": 1}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":1}]|{"offset": 3}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":2}]|{"offset": 1}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":2}]|{"offset": 2}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":3}]|{"offset": 1}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":4}]|{"offset": 1}

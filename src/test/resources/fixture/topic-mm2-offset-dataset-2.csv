@@ -1,0 +1,5 @@
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":0}]|{"offset": 9}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":1}]|{"offset": 4}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":2}]|{"offset": 3}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":3}]|{"offset": 2}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":4}]|{"offset": 2}

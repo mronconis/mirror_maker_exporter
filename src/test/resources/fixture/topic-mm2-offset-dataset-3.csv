@@ -1,0 +1,2 @@
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":0}]|{"offset": 30}
+offset-topic-mm2|["MirrorSourceConnector",{"cluster":"a","topic":"foo","partition":1}]|{"offset": 20}
